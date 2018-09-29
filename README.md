@@ -8,6 +8,5 @@ Page link: https://brira123.github.io/WhatsApp/
 
 * CSS
 
-* JavaScript
+* JavaScript (Objects, function, loops)
 
-(Objects, function, loops).
